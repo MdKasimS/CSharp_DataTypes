@@ -1,0 +1,15 @@
+E:\2021-23\Training\CSharp\Chapter2\Exercise02\obj\Debug\net7.0\Exercise02.csproj.AssemblyReference.cache
+E:\2021-23\Training\CSharp\Chapter2\Exercise02\obj\Debug\net7.0\Exercise02.GeneratedMSBuildEditorConfig.editorconfig
+E:\2021-23\Training\CSharp\Chapter2\Exercise02\obj\Debug\net7.0\Exercise02.AssemblyInfoInputs.cache
+E:\2021-23\Training\CSharp\Chapter2\Exercise02\obj\Debug\net7.0\Exercise02.AssemblyInfo.cs
+E:\2021-23\Training\CSharp\Chapter2\Exercise02\obj\Debug\net7.0\Exercise02.csproj.CoreCompileInputs.cache
+E:\2021-23\Training\CSharp\Chapter2\Exercise02\bin\Debug\net7.0\Exercise02.exe
+E:\2021-23\Training\CSharp\Chapter2\Exercise02\bin\Debug\net7.0\Exercise02.deps.json
+E:\2021-23\Training\CSharp\Chapter2\Exercise02\bin\Debug\net7.0\Exercise02.runtimeconfig.json
+E:\2021-23\Training\CSharp\Chapter2\Exercise02\bin\Debug\net7.0\Exercise02.dll
+E:\2021-23\Training\CSharp\Chapter2\Exercise02\bin\Debug\net7.0\Exercise02.pdb
+E:\2021-23\Training\CSharp\Chapter2\Exercise02\obj\Debug\net7.0\Exercise02.dll
+E:\2021-23\Training\CSharp\Chapter2\Exercise02\obj\Debug\net7.0\refint\Exercise02.dll
+E:\2021-23\Training\CSharp\Chapter2\Exercise02\obj\Debug\net7.0\Exercise02.pdb
+E:\2021-23\Training\CSharp\Chapter2\Exercise02\obj\Debug\net7.0\Exercise02.genruntimeconfig.cache
+E:\2021-23\Training\CSharp\Chapter2\Exercise02\obj\Debug\net7.0\ref\Exercise02.dll
